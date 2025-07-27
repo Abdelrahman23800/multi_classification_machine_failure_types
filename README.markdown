@@ -1,7 +1,7 @@
 # Machine Learning Project - Version_2
 
 ## Overview
-This repository contains a Jupyter Notebook (`Version_2.ipynb`) that implements a machine learning project. The project focuses on applying machine learning techniques to analyze data, build predictive models, and evaluate their performance. The notebook likely includes data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation steps, following a standard machine learning workflow.
+This repository contains a Jupyter Notebook (`Version_2.ipynb`) that implements a machine learning project. The project focuses on applying machine learning techniques to analyze data, build predictive models, and evaluate their performance. The notebook likely includes data preprocessing, exploratory data analysis, model training, and evaluation steps, following a standard machine learning workflow.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -17,7 +17,6 @@ This repository contains a Jupyter Notebook (`Version_2.ipynb`) that implements 
 The `Version_2.ipynb` notebook demonstrates a machine learning pipeline, potentially covering:
 - **Data Cleaning and Formatting**: Handling missing values, encoding categorical variables, and scaling features.
 - **Exploratory Data Analysis (EDA)**: Visualizing data distributions and relationships using libraries like Matplotlib and Seaborn.
-- **Feature Engineering**: Creating or selecting features to improve model performance.
 - **Model Training**: Implementing machine learning algorithms (e.g., regression, classification) using Scikit-Learn or similar libraries.
 - **Model Evaluation**: Assessing model performance with metrics like accuracy, RMSE, or others, and possibly comparing multiple models.
 - **Results Interpretation**: Analyzing the outcomes and identifying key predictive features.
